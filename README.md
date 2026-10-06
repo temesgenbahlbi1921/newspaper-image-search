@@ -42,7 +42,7 @@ The program reports the newspaper files containing the requested keyword and dis
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/newspaper-image-search.git
+git clone https://github.com/temesgenbahlbi1921/newspaper-image-search.git
 cd newspaper-image-search
 ```
 
